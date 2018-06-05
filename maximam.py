@@ -1,0 +1,5 @@
+x=int(input("\nenter the value of x"))
+y=int(input("\nenter the value of y"))
+z=int(input("\nenter the value of z"))
+c=max(x,y,z)
+print("maximum value",c)
